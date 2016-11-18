@@ -33,7 +33,7 @@ def JKSelection(FuckThisShit):
 	elif JackknifeSelection == "R" or JackknifeSelection == "r":
 		
 		return RTC
-
+ 
 bastionJK = "https://jackknife.thebastion.info"
 RTC = "http://www.ridetheclown.com/eveapi/audit.php"
 
