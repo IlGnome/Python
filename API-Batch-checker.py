@@ -88,7 +88,7 @@ while LastRow > rowcount:
 # or keep it so as to NOT hammer the CCP api servers?	
 # Not like CCP really cares about the API anyway :-/
 
-	print("We're currently on row \033[92m%s\033[0m of %s" % (OutNumber, LastRow))
+	print("We're currently on row \033[92m{}\033[0m of {}".format(OutNumber, LastRow))
 
 
 #list to be manipulated by code further down
